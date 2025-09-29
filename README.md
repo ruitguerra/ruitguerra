@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruitguerra
-- 👀 I’m interested in microservices, API ecosystems, self repairing systems, personal data deduplication / identity resolution
-- 🌱 I’m currently learning : lean / agile in a remote working context
-- 💞️ I’m looking to collaborate on : travel tech, retail tech 
+- 👀 I’m interested in agentic ai, microservices, API ecosystems, self repairing systems, 
+- 🌱 I’m currently learning : rapid ai driven software development
+- 💞️ I’m looking to collaborate on : rapid agent development methods and frameworks, mcv, travel tech, retail tech 
 - 📫 How to reach me : Linkedin
 
 <!---
